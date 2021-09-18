@@ -5,9 +5,10 @@ layout: post
 tags:
 - management
 - books
+excerpt_separator: "<!--more-->"
 ---
 
-![Book Cover](https://images.ctfassets.net/mu244eycyvsr/1kls3GHltwV7IqMN60Nj1K/e46bdc9f822bc4dfe5d67ef76b619b77/The_Book-2.png?h=300&q=75&fm=jpg&fl=progressive)
+![Book Cover](https://images.ctfassets.net/mu244eycyvsr/1kls3GHltwV7IqMN60Nj1K/e46bdc9f822bc4dfe5d67ef76b619b77/The_Book-2.png?h=300&q=75&fm=jpg&fl=progressive)<!--more-->
 ### 6. Commit: The Nuna Story, pg 69
 > **Jini Kim** *Cofounder and CEO*
 
