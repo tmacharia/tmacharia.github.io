@@ -10,7 +10,7 @@ tags:
 - authorization
 ---
 
-Summary of steps to take.
+Easy step-by-step procedure for enabling and using both Cookie & JwtBearer Authentication in AspnetCore web project. The main objective is to have our APIs authenticate & authorize requests with either a valid Bearer AccessToken coming from Mobile Apps for example, or Cookies coming from Ajax requests.
 
 #### 1. Add Authentication Service
 And configure default authentication options as follows.
