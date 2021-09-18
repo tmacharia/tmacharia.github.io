@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title/
 #twitter_username: jekyllrb
 github_username:  tmacharia
+google_analytics: "G-8XKZG4NL64"
 
 markdown: kramdown
 paginate: 5
@@ -38,7 +39,7 @@ theme: minima
 #theme: feeling-responsive
 #remote_theme: "pages-themes/minimal@v0.2.0"
 #remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-github: [metadata]
+#github: [metadata]
 plugins:
   - jekyll-feed
   - jekyll-paginate
