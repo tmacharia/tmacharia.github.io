@@ -12,7 +12,7 @@ comments: true
 
 <!--![Book Cover](https://images.ctfassets.net/mu244eycyvsr/1kls3GHltwV7IqMN60Nj1K/e46bdc9f822bc4dfe5d67ef76b619b77/The_Book-2.png?h=300&q=75&fm=jpg&fl=progressive)-->
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/0525536221/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0525536221&linkCode=am2&tag=txmacharia-20&linkId=53413634e8ff74934d423608c64aa932"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0525536221&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=txmacharia-20" ></a>
+<a target="_blank"  href="https://www.amazon.com/gp/product/0525536221/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0525536221&linkCode=am2&tag=txmacharia-20&linkId=53413634e8ff74934d423608c64aa932"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0525536221&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=txmacharia-20" ></a>
 
 <a target="_blank" href="https://www.amazon.com/gp/product/0525536221/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0525536221&linkCode=as2&tag=txmacharia-20&linkId=0b2fdf487f637406ab00cab3bcfa90a1">Get Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs</a>
 <!--more-->
