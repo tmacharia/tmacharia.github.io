@@ -28,6 +28,7 @@ permalink: /:title/
 #twitter_username: jekyllrb
 github_username:  tmacharia
 rss: "subscribe"
+disqus.shortname: "tmacharia"
 google_analytics: "G-8XKZG4NL64"
 
 markdown: kramdown
