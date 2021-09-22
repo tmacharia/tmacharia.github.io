@@ -20,6 +20,7 @@
 
 title: Tim's Blog
 email: tmacharia@gmail.com
+author: Timothy Macharia
 description: >- # this means to ignore newlines until "baseurl:"
   Blog posts about life writing code, software engineering, and technology.
 baseurl: "" # the subpath of your site, e.g. /blog
