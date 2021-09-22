@@ -58,6 +58,33 @@ When the company was acquired by Under Armour. First, we had to define our capac
 ### 9. Connect: The Intuit Story, pg 102
 > **Atticus Tysen** *Chief Information Officer*
 
+Modern IT goes way beyond checking off boxes to process help tickets or change requests. It's about adding *value* to the business, shedding redundant clone systems, creating new functionality, finding future-oriented solutions.
+
+### 10. Superpower #3: Track for Accountability, pg 113
+> In God we trust; all others must bring data.
+> &mdash; <cite>W. Edwards Deming</cite>
+
+OKRs, their life cycle unfolds in three phases:
+* The Setup
+* Midlife Tracking
+* Wrap-up: Rinse and Repeat
+
+**The Setup**
+
+In 2014, when Bill Pence came to AOL as global CTO, .. Pence says. Without frequent status updates, goals slide into irrelevance; the gap between plan and reality widens by the day.
+Its good to have a cloud based OKR system for transparency & real time feedback.
+To avoid resistance, designating OKR shepherds would be ideal.
+
+**Midlife Tracking**
+
+As the Fitbit craze attests, people crave to know how they are progressing and see it visually represented, down to the percentage point. 
+
+As we track and audit our OKRs, we have four options at any point in the cycle:
+* *Continue* - goal isn't broken, don't fix it.
+* *Update* - modify a yellow zone "needs attention" to get the goal on track.
+* *Start* - launch a new OKR mid-cycle.
+* *Stop* - a red zone "at risk", goal has outlived its usefulness, maybe drop it.
+
 <!--
 > I'd recommend John's book for anyone interested in becoming a better manager
 > &mdash; <cite>Bill Gates</cite>
