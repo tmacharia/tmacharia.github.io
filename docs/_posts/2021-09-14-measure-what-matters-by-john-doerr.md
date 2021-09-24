@@ -123,7 +123,9 @@ Objective: **Global eradication of malaria by 2040**
 2. Prepare for scale-up by creating the necessary tools&mdash;SERCAP (Single Exposure Radical Cure and Prophylaxis) Diagnostic.
 3. Sustain current global progress to ensure the environment is conducive to eradication push.
 
-
+### 12. Superpower #4: Stretch for Amazing, pg 133
+> The biggest risk of all is not taking one.
+> &mdash; <cite>Melody Hobson</cite>
 
 <!--
 > I'd recommend John's book for anyone interested in becoming a better manager
