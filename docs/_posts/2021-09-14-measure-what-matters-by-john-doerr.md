@@ -85,6 +85,46 @@ As we track and audit our OKRs, we have four options at any point in the cycle:
 * *Start* - launch a new OKR mid-cycle.
 * *Stop* - a red zone "at risk", goal has outlived its usefulness, maybe drop it.
 
+**Wrap-up: Rinse and Repeat**
+
+*Scoring*
+
+The simplest, cleanest way to score an objective is by averaging the percentage completion rates of its associated key results. Google uses a scale of 0 to 1.0:
+* 0.7 to 1.0 = green.* (We delivered)
+* 0.4 to 0.6 = yellow. (We made progress but fell short)
+* 0.0 to 0.3 = red. (We failed to make real progress)
+
+*Self-assessment*
+
+In evaluating OKR perfomance, objective data is enhanced by the goal setter's thoughtful, subjective judgement.
+
+*Reflection*
+
+The philosopher and educator John Dewey said, "We  do not learn from experience...we learn from reflecting on experience".
+OKR wrap-ups are retrospective and forward-looking at the same time.
+
+### 11. Track: The Gates Foundation Story, pg 126
+> **Bill Gates** *Cochairman*
+> **Patty Stonesifer** *Former CEO*
+
+There were two cases where I turned down a grant in the end because the goals weren't clear enough.
+When a goal is too aspirational, it's bad for credibility.
+
+Courtesy of the Gates Foundation, the Guinea worm disease, *Dracunculiasis*, its scientific name, is now expected to become the second disease in human history to be eradicated, after smallpox which was eradicated in 1980. In 2015, the number of reported cases was 22.
+
+According to *Patty Stonesifer*, setting the big goals wasn't as hard as breaking them down: What rocks need to moved to achieve them?
+
+Case in point: the ongoing fight against the most lethal animal on the planet, the mosquito. Driven by empirical data, focus has been shifted from a transmission-blocking vaccine to a comprehensive eradication strategy.
+
+Objective: **Global eradication of malaria by 2040**
+
+*Key Results*
+1. Prove to the world that a radical cure-based approach can lead to regional elimination.
+2. Prepare for scale-up by creating the necessary tools&mdash;SERCAP (Single Exposure Radical Cure and Prophylaxis) Diagnostic.
+3. Sustain current global progress to ensure the environment is conducive to eradication push.
+
+
+
 <!--
 > I'd recommend John's book for anyone interested in becoming a better manager
 > &mdash; <cite>Bill Gates</cite>
