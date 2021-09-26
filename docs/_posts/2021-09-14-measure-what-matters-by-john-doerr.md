@@ -127,6 +127,10 @@ Objective: **Global eradication of malaria by 2040**
 > The biggest risk of all is not taking one.
 > &mdash; <cite>Melody Hobson</cite>
 
+Jim Collin's memorable phrase in *Good to Great*&mdash;spark leaps to new levels:
+
+A BHAG (Big Hairy Audacious Goal) is a huge and daunting goal--like a big mountain to climb. It is clear, compelling, and people "get it" right away. A BHAG serves as a unifying focal point of effort, galvanizing people and creating team spirit as people strive toward a finish line. Like the 1960s NASA moon mission, a BHAG captures the imagination and grabs people in the gut.
+
 <!--
 > I'd recommend John's book for anyone interested in becoming a better manager
 > &mdash; <cite>Bill Gates</cite>
