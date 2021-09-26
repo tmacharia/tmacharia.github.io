@@ -130,6 +130,22 @@ Objective: **Global eradication of malaria by 2040**
 Jim Collin's memorable phrase in *Good to Great*&mdash;spark leaps to new levels:
 
 A BHAG (Big Hairy Audacious Goal) is a huge and daunting goal--like a big mountain to climb. It is clear, compelling, and people "get it" right away. A BHAG serves as a unifying focal point of effort, galvanizing people and creating team spirit as people strive toward a finish line. Like the 1960s NASA moon mission, a BHAG captures the imagination and grabs people in the gut.
+### 13. Stretch: The Google Chrome Story, pg 143
+> **Sundar Pichai** *CEO*
+
+In 2004, he joined Google as a Product Manager when the company still revolved around search.
+
+In 2008, the year of Chrome's rollout, Sundar Pichai was Google's Vice President of product development.
+
+In October 2015, at age 43, he became Google's third CEO.
+
+Our stretch OKR gave the team direction and a barometer to measure our progress. It made complacency impossible. And it kept us all rethinking, every day, the framework for what we were doing.
+
+Google stands for speed. The company has waged a constant battle against latency. In 2008, Larry and Sergey wrote a beautiful OKR that captured people's attention: "We should make the web as fast as flipping through a magazine." For the Chrome project, we created a sub-OKR to turbocharge Javascript. We set a moonshot goal of 10x improvement and named the project "V8", after the high-perfomance car engine.
+
+"..I tried to be thoughtful and systematic and not too emotional, and I think that helped."
+Google is propelled by our moonshot culture. "..Whenever we invent something new at Google, we're always thinking: How can we scale it to a billion?" That number can seem very abstract. But when you set a measurable objective for the year and chunk the problem, quarter by quarter, monshots become doable.
+
 
 <!--
 > I'd recommend John's book for anyone interested in becoming a better manager
