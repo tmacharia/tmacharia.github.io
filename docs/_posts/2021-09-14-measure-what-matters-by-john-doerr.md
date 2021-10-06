@@ -105,6 +105,7 @@ OKR wrap-ups are retrospective and forward-looking at the same time.
 
 ### 11. Track: The Gates Foundation Story, pg 126
 > **Bill Gates** *Cochairman*
+
 > **Patty Stonesifer** *Former CEO*
 
 There were two cases where I turned down a grant in the end because the goals weren't clear enough.
@@ -145,7 +146,29 @@ Google stands for speed. The company has waged a constant battle against latency
 
 "..I tried to be thoughtful and systematic and not too emotional, and I think that helped."
 Google is propelled by our moonshot culture. "..Whenever we invent something new at Google, we're always thinking: How can we scale it to a billion?" That number can seem very abstract. But when you set a measurable objective for the year and chunk the problem, quarter by quarter, monshots become doable.
+### 14. Stretch: The YouTube Story, pg 154
+> **Susan Wojcicki** *CEO*
 
+> **Cristos Goodrow** *Vice President of Engineering*
+
+...and once you break, it's not easy to reaccelerate.
+
+Susan had risen to Senior VP of advertising and commerce, where she reimagined AdWords and envisioned a new way to monetize the web with AdSense.
+
+In long OKR meetings, Larry would empasize on things he cared about, and also vent frustrations... He'd say, "Tell me your speed now." And then: "Why can't you cut that in half?"
+
+Company rule for product development: Make it fast.
+
+**Cristos Goodrow:**
+Engineers struggle with goal setting in two big ways. They hate crossing off anything they think is a good idea, and they habitually underestimate how long it takes to get things done.
+
+As Microsoft CEO Satya Nadella has pointed out: In a world where computing power is nearly limitless, "the true scarce commodity is increasingly human attention." Our true currency wasn't views or clicks--it was watch time. The logic was undeniable. Youtube needed a new core metric.
+
+Youtube had a mega stretch goal of reaching 1 billion hours of watch time per day by 2016. By Feb 2014, when Susan joined, it was nearly a third of the way through.
+In 2007, this was when google introduced AdSense to monetize the whole web.
+
+**Susan:**
+Aspirational goals can prompt a reset for the entire org. In our case, it inspired infrastructure initiatives throughout Youtube. People started saying, "If we're going to be *that* big, maybe we need to redesign our architecture. Maybe we need to redesign our storage." It became a prod for the whole company to better prepare for the future. Everybody started thinking bigger.
 
 <!--
 > I'd recommend John's book for anyone interested in becoming a better manager
