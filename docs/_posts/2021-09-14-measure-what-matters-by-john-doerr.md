@@ -185,6 +185,13 @@ Andy Grove believed that the subordinate  should do 90% of the talking. Progress
 * Make recognition frequent and attainable
 * Tie recognition to company goals and strategies.
 
+### 16. Ditching Annual Perfomance Reviews: The Adobe Story, pg 189
+> **Donna Morris** *Executive Vice President, Customer and Employee Experience*
+
+At Adobe, managers are trained to scale compensation based on employees' perfomance, their impact on the business, the relative scarcity of their skills, and market conditions. There are no fixed guidelines.
+
+Turnover is costly.  The best turnover is internal turnover, where people are growing their careers within your enterprise rather than moving someplace else. People aren't wired to be nomads. They just need to find a place where they feel they can make a real impact. At Adobe, Check-in is making that happen.
+
 <!--
 > I'd recommend John's book for anyone interested in becoming a better manager
 > &mdash; <cite>Bill Gates</cite>
