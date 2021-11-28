@@ -170,6 +170,21 @@ In 2007, this was when google introduced AdSense to monetize the whole web.
 **Susan:**
 Aspirational goals can prompt a reset for the entire org. In our case, it inspired infrastructure initiatives throughout Youtube. People started saying, "If we're going to be *that* big, maybe we need to redesign our architecture. Maybe we need to redesign our storage." It became a prod for the whole company to better prepare for the future. Everybody started thinking bigger.
 
+## Part Two: The New World of Work.
+### 15. Continuous Perfomance Management: OKRs and CFRs, pg 175
+> Talking can transform minds, which can transform behaviors, which can transform institutions.
+> &mdash; <cite>Sherly Sandberg</cite>
+
+The contemporary alternative to annual perfomance reviews , is *continous perfomance management*. It is implemented with an instrument called CFRs. **Conversations, Feedback, Recognition**
+#### Conversation
+Andy Grove believed that the subordinate  should do 90% of the talking. Progress updates entail two basic questions: What's working well? What's not working well?
+#### Recognition
+* Institute peer-to-peer recognition
+* Establish clear criteria
+* Share recognition stories
+* Make recognition frequent and attainable
+* Tie recognition to company goals and strategies.
+
 <!--
 > I'd recommend John's book for anyone interested in becoming a better manager
 > &mdash; <cite>Bill Gates</cite>
