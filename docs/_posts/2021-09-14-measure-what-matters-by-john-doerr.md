@@ -10,11 +10,12 @@ author: tmacharia
 comments: true
 ---
 
-<!--![Book Cover](https://images.ctfassets.net/mu244eycyvsr/1kls3GHltwV7IqMN60Nj1K/e46bdc9f822bc4dfe5d67ef76b619b77/The_Book-2.png?h=300&q=75&fm=jpg&fl=progressive)-->
-
-<a target="_blank"  href="https://www.amazon.com/gp/product/0525536221/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0525536221&linkCode=am2&tag=txmacharia-20&linkId=53413634e8ff74934d423608c64aa932"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0525536221&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=txmacharia-20" ></a>
-
+![]({{ 'assets/book-measure-what-matters-blog-banner.jpg' | relative_url }})
 <a target="_blank" href="https://www.amazon.com/gp/product/0525536221/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0525536221&linkCode=as2&tag=txmacharia-20&linkId=0b2fdf487f637406ab00cab3bcfa90a1">Get Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs</a>
+
+
+
+
 <!--more-->
 ### 6. Commit: The Nuna Story, pg 69
 > **Jini Kim** *Cofounder and CEO*
@@ -27,6 +28,7 @@ By definition, startups wrestle with ambiguity. Therefore, the whole team needs 
 
 Most of all, we want the Nuna platform to play a big role in improving the nation's health care. It's a daunting commitment. But as I learned at Google: The hairier the mission, the more important your OKRs.
 
+<a target="_blank"  href="https://www.amazon.com/gp/product/0525536221/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0525536221&linkCode=am2&tag=txmacharia-20&linkId=53413634e8ff74934d423608c64aa932"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0525536221&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=txmacharia-20" ></a>
 ### 7. Superpower #2: Align and Connect for Teamwork, pg 77
 > We don't hire smart people to tell them what to do. We hire smart people so they can tell us what to do.
 > &mdash; <cite>Steve Jobs</cite>
@@ -191,6 +193,9 @@ Andy Grove believed that the subordinate  should do 90% of the talking. Progress
 At Adobe, managers are trained to scale compensation based on employees' perfomance, their impact on the business, the relative scarcity of their skills, and market conditions. There are no fixed guidelines.
 
 Turnover is costly.  The best turnover is internal turnover, where people are growing their careers within your enterprise rather than moving someplace else. People aren't wired to be nomads. They just need to find a place where they feel they can make a real impact. At Adobe, Check-in is making that happen.
+
+### 17. Baking Better Every Day: The Zume Pizza Story, pg 197
+> **Julia Collins and Alex Garden** *Cofounders and Co-CEOs*
 
 <!--
 > I'd recommend John's book for anyone interested in becoming a better manager
