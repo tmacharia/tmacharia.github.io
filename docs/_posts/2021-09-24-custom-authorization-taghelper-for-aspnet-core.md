@@ -8,11 +8,10 @@ tags:
 - aspnet-core
 - authorization
 - razor
-image: https://i.pinimg.com/736x/e0/d3/44/e0d34427aa341b881dc5dd292edc1bd1.jpg
+image: assets/auth-tag-helpers-blog-banner.jpg
 ---
 
-![hero-image](https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-03/taghelpers_870x220.png)
-
+![]({{ 'assets/auth-tag-helpers-blog-banner.jpg' | relative_url }})
 Tag helpers enable server-side code to participate in creating and rendering HTML elements in Razor files.
 
 **What Tag Helpers provide**
@@ -30,3 +29,5 @@ Normally, if you want to hide/show  HTML elements based on a user's role, you wo
     <button role="button">Approve</button>
 }
 ```
+
+... to be continued (felt tired 🚶🏻‍♂️)
