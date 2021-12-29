@@ -7,8 +7,13 @@ comments: true
 tags:
 - docker
 - mongo
+excerpt_separator: "<!--more-->"
+image: assets/mongo-on-docker-blog-banner.jpg
 ---
 
+![]({{ 'assets/mongo-on-docker-blog-banner.jpg' | relative_url }})
+For fast & experimental use of MongoDB, running it on docker is a pretty effective way. After use, you can easily just delete the instance. Here's a procedure to setup a mongo instance on docker locally & test connection, & browse it.
+<!--more-->
 ## Install steps
 
 1. Find the latest version of MongoDB image on docker hub. Use this link [https://hub.docker.com/mongo](https://hub.docker.com/_/mongo) to go its default page.

@@ -6,8 +6,13 @@ author: tmacharia
 comments: true
 tags:
 - docker
+excerpt_separator: "<!--more-->"
+image: assets/docker-on-windows-blog-banner.jpg
 ---
 
+![]({{ 'assets/docker-on-windows-blog-banner.jpg' | relative_url }})
+Simple steps to install docker desktop on windows.
+<!--more-->
 ## Prerequisites
 
 1. Check that your machine matches the sytem requirements [https://docs.docker.com/desktop/windows/install/](https://docs.docker.com/desktop/windows/install/).
